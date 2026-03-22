@@ -37,8 +37,7 @@ Top Revenue Category: Home Decor
 
 ## Visualization
 Monthly Sales Analysis Chart
-
-chart.png
+![Sales Chart](chart.png)
 
 
 
