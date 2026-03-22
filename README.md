@@ -29,16 +29,15 @@ ecommerce_sales_data.csv
 ## Output Example
 Some important results from the analysis:
 
-Total Revenue: (your output value)
+Total Revenue: 27123544.51999996
 
-Best Selling Category: (your output)
+Best Selling Category: Home Decor
 
-Top Revenue Category: (your output)
+Top Revenue Category: Home Decor
 
 ## Visualization
 Monthly Sales Analysis Chart
 
 (Add screenshot here)
 
-## Author
-Karachi Thanmayi
+
